@@ -1,7 +1,7 @@
 {
   "name": "Demo1",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "DemoReports.xaml",
   "dependencies": {
     "RBanda.TestReportGenerator.Activities": "[1.4.1]",
     "ReporterForUiPath.Activities": "[2.0.0]",
@@ -49,6 +49,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "74abc264-01c0-4305-8eed-4480d641af32",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DemoReports.xaml",
+      "uniqueId": "f41968a4-2e4e-476c-8494-8f140dcafd65",
       "input": [],
       "output": []
     }
