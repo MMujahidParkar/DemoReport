@@ -17,8 +17,3 @@ steps:
     folderName: 'DemoProj'
     timeout: '18000'
     traceLevel: 'Information'
-- task: PublishBuildArtifacts@1
-  inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'DemoRepo'
-    publishLocation: 'Container'
